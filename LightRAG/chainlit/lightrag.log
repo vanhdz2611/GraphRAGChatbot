@@ -1,0 +1,822 @@
+2024-12-24 11:38:35,979 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace513ac2bb-a9f4-4ce2-b52f-45dff4579a5c/database
+2024-12-24 11:38:35,979 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 11:38:35,979 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:38:35,979 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:39:34,408 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace380a3611-b11f-4219-ab97-d1c70f302071/database
+2024-12-24 11:39:34,408 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 11:39:34,408 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:39:34,408 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:39:36,468 - lightrag - INFO - kw_prompt result:
+2024-12-24 11:39:40,327 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 11:39:59,388 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace380a3611-b11f-4219-ab97-d1c70f302071/database
+2024-12-24 11:39:59,388 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 11:39:59,388 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:39:59,388 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:40:00,625 - lightrag - INFO - kw_prompt result:
+2024-12-24 11:40:03,756 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 11:40:39,049 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace380a3611-b11f-4219-ab97-d1c70f302071/database
+2024-12-24 11:40:39,050 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 11:40:39,050 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:40:39,050 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:40:44,017 - lightrag - INFO - kw_prompt result:
+2024-12-24 11:40:47,367 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 11:41:42,943 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace380a3611-b11f-4219-ab97-d1c70f302071/database
+2024-12-24 11:41:42,943 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 11:41:42,943 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:41:42,943 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:41:45,692 - lightrag - INFO - kw_prompt result:
+2024-12-24 11:41:48,838 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 11:42:37,374 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceaca874dd-1e88-4fa1-9a97-a2e9acc361a2/database
+2024-12-24 11:42:37,374 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 11:42:37,374 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:42:37,374 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:42:39,882 - lightrag - INFO - kw_prompt result:
+2024-12-24 11:42:43,052 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 11:42:48,059 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceaca874dd-1e88-4fa1-9a97-a2e9acc361a2/database
+2024-12-24 11:42:48,059 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 11:42:48,059 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:42:48,059 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:42:50,612 - lightrag - INFO - kw_prompt result:
+2024-12-24 11:42:54,195 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 11:44:52,038 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace38e7c896-ddbe-43b9-8fd3-12595cc591d6/database
+2024-12-24 11:44:52,038 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 11:44:52,038 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:44:52,038 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:44:54,197 - lightrag - INFO - kw_prompt result:
+2024-12-24 11:44:57,831 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 11:45:45,401 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace38e7c896-ddbe-43b9-8fd3-12595cc591d6/database
+2024-12-24 11:45:45,401 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 11:45:45,401 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 11:45:45,401 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 11:46:14,131 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-24 11:46:14,373 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-12-24 11:46:14,374 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-12-24 11:46:15,881 - lightrag - INFO - [Entity Extraction]...
+2024-12-24 11:47:05,557 - lightrag - INFO - Inserting entities into storage...
+2024-12-24 11:47:05,559 - lightrag - INFO - Inserting relationships into storage...
+2024-12-24 11:47:05,560 - lightrag - INFO - Inserting 22 vectors to entities
+2024-12-24 11:47:07,043 - lightrag - INFO - Inserting 7 vectors to relationships
+2024-12-24 11:47:08,495 - lightrag - INFO - Writing graph with 22 nodes, 7 edges
+2024-12-24 11:47:11,640 - lightrag - INFO - kw_prompt result:
+2024-12-24 11:47:13,086 - lightrag - INFO - Local query uses 22 entites, 7 relations, 2 text units
+2024-12-24 11:47:14,516 - lightrag - INFO - Global query uses 8 entites, 7 relations, 2 text units
+2024-12-24 11:57:53,350 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace38e7c896-ddbe-43b9-8fd3-12595cc591d6/database
+2024-12-24 11:57:53,350 - lightrag - INFO - Load KV llm_response_cache with 2 data
+2024-12-24 11:57:53,350 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-24 11:57:53,350 - lightrag - INFO - Load KV text_chunks with 2 data
+2024-12-24 11:57:53,353 - lightrag - INFO - Loaded graph from ../assets/workspace38e7c896-ddbe-43b9-8fd3-12595cc591d6/database/graph_chunk_entity_relation.graphml with 22 nodes, 7 edges
+2024-12-24 11:58:01,911 - lightrag - INFO - [New Docs] inserting 2 docs
+2024-12-24 11:58:01,925 - lightrag - INFO - [New Chunks] inserting 13 chunks
+2024-12-24 11:58:01,925 - lightrag - INFO - Inserting 13 vectors to chunks
+2024-12-24 11:58:03,525 - lightrag - INFO - [Entity Extraction]...
+2024-12-24 12:00:13,910 - lightrag - INFO - Inserting entities into storage...
+2024-12-24 12:00:13,922 - lightrag - INFO - Inserting relationships into storage...
+2024-12-24 12:00:13,927 - lightrag - INFO - Inserting 154 vectors to entities
+2024-12-24 12:00:21,420 - lightrag - INFO - Inserting 118 vectors to relationships
+2024-12-24 12:00:27,257 - lightrag - INFO - Writing graph with 168 nodes, 125 edges
+2024-12-24 12:00:32,053 - lightrag - INFO - kw_prompt result:
+2024-12-24 12:00:33,517 - lightrag - INFO - Local query uses 60 entites, 74 relations, 3 text units
+2024-12-24 12:00:34,986 - lightrag - INFO - Global query uses 67 entites, 60 relations, 4 text units
+2024-12-24 12:05:08,101 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace6aac917e-dc26-4a28-bcc1-92a9ceceb796/database
+2024-12-24 12:05:08,101 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 12:05:08,101 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 12:05:08,101 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 12:05:16,982 - lightrag - INFO - [New Docs] inserting 3 docs
+2024-12-24 12:05:16,998 - lightrag - INFO - [New Chunks] inserting 15 chunks
+2024-12-24 12:05:16,998 - lightrag - INFO - Inserting 15 vectors to chunks
+2024-12-24 12:05:19,143 - lightrag - INFO - [Entity Extraction]...
+2024-12-24 12:06:30,313 - lightrag - INFO - Inserting entities into storage...
+2024-12-24 12:06:30,325 - lightrag - INFO - Inserting relationships into storage...
+2024-12-24 12:06:30,329 - lightrag - INFO - Inserting 173 vectors to entities
+2024-12-24 12:06:39,940 - lightrag - INFO - Inserting 126 vectors to relationships
+2024-12-24 12:06:46,155 - lightrag - INFO - Writing graph with 174 nodes, 126 edges
+2024-12-24 12:06:48,286 - lightrag - INFO - kw_prompt result:
+2024-12-24 12:06:49,808 - lightrag - INFO - Local query uses 60 entites, 68 relations, 4 text units
+2024-12-24 12:06:51,339 - lightrag - INFO - Global query uses 65 entites, 60 relations, 3 text units
+2024-12-24 12:09:35,579 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace18e43e4e-0222-4ab1-a58a-e130a66faf7a/database
+2024-12-24 12:09:35,579 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 12:09:35,579 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 12:09:35,579 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 12:09:48,639 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace18e43e4e-0222-4ab1-a58a-e130a66faf7a/database
+2024-12-24 12:09:48,640 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 12:09:48,640 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 12:09:48,640 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 12:10:42,292 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace18e43e4e-0222-4ab1-a58a-e130a66faf7a/database
+2024-12-24 12:10:42,292 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 12:10:42,292 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 12:10:42,293 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 12:10:47,712 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace18e43e4e-0222-4ab1-a58a-e130a66faf7a/database
+2024-12-24 12:10:47,712 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 12:10:47,712 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 12:10:47,712 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 12:11:56,132 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace18e43e4e-0222-4ab1-a58a-e130a66faf7a/database
+2024-12-24 12:11:56,132 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 12:11:56,132 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 12:11:56,133 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 12:12:10,468 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace6aac917e-dc26-4a28-bcc1-92a9ceceb796/database
+2024-12-24 12:12:10,468 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 12:12:10,469 - lightrag - INFO - Load KV full_docs with 3 data
+2024-12-24 12:12:10,469 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-12-24 12:12:10,477 - lightrag - INFO - Loaded graph from ../assets/workspace6aac917e-dc26-4a28-bcc1-92a9ceceb796/database/graph_chunk_entity_relation.graphml with 174 nodes, 126 edges
+2024-12-24 12:12:12,335 - lightrag - INFO - Truncate 15 to 3 chunks
+2024-12-24 13:31:17,604 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceceaabbcb-ec99-42e1-af3b-34f4f8d808a2/database
+2024-12-24 13:31:17,604 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:31:17,604 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:31:17,604 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:32:46,759 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceba669b23-2052-4f35-8a53-7b48a9858d5b/database
+2024-12-24 13:32:46,760 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:32:46,760 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:32:46,760 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:33:00,911 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceba669b23-2052-4f35-8a53-7b48a9858d5b/database
+2024-12-24 13:33:00,912 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:33:00,912 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:33:00,912 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:34:26,572 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceba669b23-2052-4f35-8a53-7b48a9858d5b/database
+2024-12-24 13:34:26,572 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:34:26,572 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:34:26,572 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:34:33,745 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceba669b23-2052-4f35-8a53-7b48a9858d5b/database
+2024-12-24 13:34:33,745 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:34:33,745 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:34:33,746 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:35:21,899 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceba669b23-2052-4f35-8a53-7b48a9858d5b/database
+2024-12-24 13:35:21,899 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:35:21,899 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:35:21,899 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:35:58,602 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace744688e3-7c92-4265-ac72-a7dd30751e38/database
+2024-12-24 13:35:58,603 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:35:58,603 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:35:58,603 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:37:07,242 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database
+2024-12-24 13:37:07,243 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:37:07,243 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:37:07,243 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:38:01,793 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database
+2024-12-24 13:38:01,793 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:38:01,794 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:38:01,794 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:38:40,615 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database
+2024-12-24 13:38:40,615 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:38:40,616 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:38:40,616 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:39:26,086 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-24 13:39:26,331 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-12-24 13:39:26,332 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-12-24 13:39:27,820 - lightrag - INFO - [Entity Extraction]...
+2024-12-24 13:40:29,944 - lightrag - INFO - Inserting entities into storage...
+2024-12-24 13:40:29,948 - lightrag - INFO - Inserting relationships into storage...
+2024-12-24 13:40:29,951 - lightrag - INFO - Inserting 48 vectors to entities
+2024-12-24 13:40:32,931 - lightrag - INFO - Inserting 26 vectors to relationships
+2024-12-24 13:40:34,395 - lightrag - INFO - Writing graph with 48 nodes, 26 edges
+2024-12-24 13:40:35,870 - lightrag - INFO - Truncate 4 to 3 chunks
+2024-12-24 13:42:59,150 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database
+2024-12-24 13:42:59,150 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 13:42:59,151 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-24 13:42:59,151 - lightrag - INFO - Load KV text_chunks with 4 data
+2024-12-24 13:42:59,155 - lightrag - INFO - Loaded graph from ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database/graph_chunk_entity_relation.graphml with 48 nodes, 26 edges
+2024-12-24 13:43:00,621 - lightrag - INFO - Truncate 4 to 3 chunks
+2024-12-24 13:45:18,890 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database
+2024-12-24 13:45:18,890 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 13:45:18,890 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-24 13:45:18,890 - lightrag - INFO - Load KV text_chunks with 4 data
+2024-12-24 13:45:18,893 - lightrag - INFO - Loaded graph from ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database/graph_chunk_entity_relation.graphml with 48 nodes, 26 edges
+2024-12-24 13:45:20,638 - lightrag - INFO - Truncate 4 to 3 chunks
+2024-12-24 13:45:30,440 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database
+2024-12-24 13:45:30,440 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 13:45:30,440 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-24 13:45:30,441 - lightrag - INFO - Load KV text_chunks with 4 data
+2024-12-24 13:45:30,443 - lightrag - INFO - Loaded graph from ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database/graph_chunk_entity_relation.graphml with 48 nodes, 26 edges
+2024-12-24 13:45:31,913 - lightrag - INFO - Truncate 4 to 3 chunks
+2024-12-24 13:45:50,475 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database
+2024-12-24 13:45:50,476 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 13:45:50,476 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-24 13:45:50,476 - lightrag - INFO - Load KV text_chunks with 4 data
+2024-12-24 13:45:50,479 - lightrag - INFO - Loaded graph from ../assets/workspaceceab347e-026d-464a-ac75-cb77c80800d0/database/graph_chunk_entity_relation.graphml with 48 nodes, 26 edges
+2024-12-24 13:45:51,956 - lightrag - INFO - Truncate 4 to 3 chunks
+2024-12-24 13:49:27,711 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacefbedd6c5-4e16-444c-afa1-ca366aec6ff4/database
+2024-12-24 13:49:27,711 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 13:49:27,711 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 13:49:27,711 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 13:49:30,088 - lightrag - INFO - kw_prompt result:
+2024-12-24 13:49:33,912 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 14:32:59,727 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceba669b23-2052-4f35-8a53-7b48a9858d5b/database
+2024-12-24 14:32:59,727 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 14:32:59,727 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 14:32:59,728 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 14:33:01,785 - lightrag - INFO - kw_prompt result:
+2024-12-24 14:33:05,473 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 16:54:27,407 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 16:54:27,408 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 16:54:27,408 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 16:54:27,408 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 16:54:34,617 - lightrag - INFO - kw_prompt result:
+2024-12-24 16:54:38,899 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 16:54:47,947 - lightrag - INFO - kw_prompt result:
+2024-12-24 16:54:51,140 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 17:08:20,700 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 17:08:20,701 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 17:08:20,701 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:08:20,701 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:08:36,448 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 17:08:36,449 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 17:08:36,449 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:08:36,449 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:08:39,416 - lightrag - INFO - kw_prompt result:
+2024-12-24 17:08:43,289 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 17:08:43,681 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 17:08:43,682 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 17:08:43,682 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:08:43,682 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:16:46,872 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 17:16:46,873 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 17:16:46,873 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:16:46,873 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:18:44,877 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 17:18:44,878 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 17:18:44,878 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:18:44,878 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:18:57,955 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 17:18:57,955 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 17:18:57,955 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:18:57,955 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:19:05,792 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 17:19:05,792 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 17:19:05,792 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:19:05,793 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:19:10,977 - lightrag - INFO - kw_prompt result:
+2024-12-24 17:19:14,749 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 17:21:51,224 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 17:21:51,225 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 17:21:51,225 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:21:51,225 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:27:17,261 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace1fa05b3c-a2a8-4e81-9d7b-91f493445e6e/database
+2024-12-24 17:27:17,261 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 17:27:17,261 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:27:17,261 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:27:17,368 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace63e8aecd-4f33-4f09-9635-49fa6c4fbdd8/database
+2024-12-24 17:27:17,368 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 17:27:17,368 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:27:17,368 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:27:20,618 - lightrag - INFO - kw_prompt result:
+2024-12-24 17:27:24,956 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 17:27:36,895 - lightrag - INFO - kw_prompt result:
+2024-12-24 17:27:40,434 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 17:32:11,983 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace5e652767-fc0a-432a-b6e0-69dc47a0acc9/database
+2024-12-24 17:32:11,984 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 17:32:11,984 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 17:32:11,984 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 17:32:15,047 - lightrag - INFO - kw_prompt result:
+2024-12-24 17:32:18,851 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 18:31:29,455 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace6a6eaf22-7453-4f79-bbc0-4e77a6bf93d1/database
+2024-12-24 18:31:29,455 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 18:31:29,455 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 18:31:29,455 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 18:31:42,160 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacefdf08fe9-70a6-44d4-b73b-bdcb22a28b9f/database
+2024-12-24 18:31:42,160 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 18:31:42,160 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 18:31:42,160 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 18:31:44,945 - lightrag - INFO - kw_prompt result:
+2024-12-24 18:31:48,899 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 18:32:11,139 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace25ebeb73-0f55-4801-90d4-dcd4adb52b39/database
+2024-12-24 18:32:11,139 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 18:32:11,139 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 18:32:11,139 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 18:34:07,667 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacec343595a-a833-4a36-b309-54e5c2cfe705/database
+2024-12-24 18:34:07,667 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 18:34:07,667 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 18:34:07,667 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 18:34:36,055 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace3e3c4d47-2bcc-47de-b678-81ac7787c2dd/database
+2024-12-24 18:34:36,055 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 18:34:36,055 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 18:34:36,055 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 18:34:41,679 - lightrag - INFO - kw_prompt result:
+2024-12-24 18:34:45,321 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 19:15:36,046 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace50a0de25-20eb-4d40-821a-a73f097c8a67/database
+2024-12-24 19:15:36,046 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:15:36,046 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:15:36,046 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:18:23,243 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace26ffee61-22bf-4617-b14d-af817d79d43c/database
+2024-12-24 19:18:23,243 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:18:23,243 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:18:23,243 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:18:42,279 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace9e250dd3-ffd9-42e0-ad5c-ba5a31efb716/database
+2024-12-24 19:18:42,279 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:18:42,279 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:18:42,279 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:21:37,857 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace8befea64-33f6-4956-a88d-6fd412e68dd6/database
+2024-12-24 19:21:37,857 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:21:37,857 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:21:37,857 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:21:56,378 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacefa3b5483-5d42-413a-b091-5032c6f61d89/database
+2024-12-24 19:21:56,379 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:21:56,379 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:21:56,379 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:23:09,085 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace4a15bebd-dd8d-4460-ae82-9b6d291d2c00/database
+2024-12-24 19:23:09,085 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:23:09,085 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:23:09,085 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:23:27,378 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace796467c0-a994-4aa6-bc9b-f126e685f37e/database
+2024-12-24 19:23:27,379 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:23:27,379 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:23:27,379 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:26:00,813 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace21d37128-70c4-473b-a6db-164ca03ca4cb/database
+2024-12-24 19:26:00,813 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:26:00,813 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:26:00,813 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:26:53,197 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacecc2148aa-10e2-41f0-8388-0baf36e2f0e5/database
+2024-12-24 19:26:53,197 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:26:53,197 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:26:53,197 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:27:54,597 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace7b18e5a1-2738-47fc-9677-ed591c12669a/database
+2024-12-24 19:27:54,597 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:27:54,597 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:27:54,597 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:27:54,598 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace7b18e5a1-2738-47fc-9677-ed591c12669a/database
+2024-12-24 19:27:54,598 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:27:54,598 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:27:54,598 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:31:57,704 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 19:31:57,705 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 19:31:57,705 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:31:57,705 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:35:19,802 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 19:35:19,802 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 19:35:19,807 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:35:19,807 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:35:53,436 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 19:35:53,436 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 19:35:53,436 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:35:53,436 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:35:58,091 - lightrag - INFO - kw_prompt result:
+2024-12-24 19:36:01,673 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 19:40:35,520 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 19:40:35,520 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 19:40:35,520 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:40:35,520 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:40:44,431 - lightrag - INFO - kw_prompt result:
+2024-12-24 19:40:48,180 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 19:41:18,260 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 19:41:18,261 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 19:41:18,261 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:41:18,261 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:42:31,351 - lightrag - INFO - Logger initialized for working directory: ./workspace/database
+2024-12-24 19:42:31,352 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 19:42:31,352 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:42:31,352 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:43:56,578 - lightrag - INFO - kw_prompt result:
+2024-12-24 19:44:00,436 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 19:45:43,505 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacedf215b81-1b3d-4773-8d87-968771f3e6f9/database
+2024-12-24 19:45:43,505 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:45:43,505 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:45:43,505 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:45:46,470 - lightrag - INFO - kw_prompt result:
+2024-12-24 19:45:50,174 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 19:46:02,259 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace0f66775c-16db-4cca-a210-fe98b1283167/database
+2024-12-24 19:46:02,260 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:46:02,260 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:46:02,260 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:46:04,970 - lightrag - INFO - kw_prompt result:
+2024-12-24 19:46:07,936 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 19:46:56,316 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace77e14c42-fa20-49e7-8c04-f20257a26f0f/database
+2024-12-24 19:46:56,317 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:46:56,317 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:46:56,317 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:47:14,190 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace0f66775c-16db-4cca-a210-fe98b1283167/database
+2024-12-24 19:47:14,191 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:47:14,191 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:47:14,191 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:47:15,169 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacedf215b81-1b3d-4773-8d87-968771f3e6f9/database
+2024-12-24 19:47:15,170 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 19:47:15,170 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:47:15,170 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:51:20,617 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacedf215b81-1b3d-4773-8d87-968771f3e6f9/database
+2024-12-24 19:51:20,617 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 19:51:20,617 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:51:20,617 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:51:20,618 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace0f66775c-16db-4cca-a210-fe98b1283167/database
+2024-12-24 19:51:20,618 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:51:20,618 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:51:20,619 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:51:21,611 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace8a7c949d-5105-40f0-9032-edb0b6e404f6/database
+2024-12-24 19:51:21,611 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:51:21,611 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:51:21,611 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:51:22,998 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacedc4e0865-4a26-4c4c-9cd4-e74d95afc2f1/database
+2024-12-24 19:51:22,998 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:51:22,998 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:51:22,998 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:51:32,686 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace9ce36c8d-100c-47b9-b89c-63a324eab0a3/database
+2024-12-24 19:51:32,686 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:51:32,686 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:51:32,686 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:51:52,256 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace0f66775c-16db-4cca-a210-fe98b1283167/database
+2024-12-24 19:51:52,257 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 19:51:52,257 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 19:51:52,257 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 19:54:22,207 - lightrag - INFO - kw_prompt result:
+2024-12-24 19:54:25,867 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 19:54:33,299 - lightrag - INFO - kw_prompt result:
+2024-12-24 19:54:36,224 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 19:54:42,414 - lightrag - INFO - kw_prompt result:
+2024-12-24 19:54:45,342 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 20:46:07,398 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace9acaa828-50a6-4c65-b61d-5c6696addf50/database
+2024-12-24 20:46:07,398 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 20:46:07,398 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 20:46:07,398 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 20:46:21,798 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaceee9a6b17-a13b-4a7d-bb01-2f53de3004b4/database
+2024-12-24 20:46:21,799 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 20:46:21,799 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 20:46:21,799 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 20:46:25,652 - lightrag - INFO - kw_prompt result:
+2024-12-24 20:46:29,357 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 20:46:42,467 - lightrag - INFO - kw_prompt result:
+2024-12-24 20:46:45,474 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 20:47:43,377 - lightrag - INFO - kw_prompt result:
+2024-12-24 20:47:46,521 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 20:49:58,420 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace61878b96-8dda-439d-9c2b-140156e3917f/database
+2024-12-24 20:49:58,421 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 20:49:58,421 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 20:49:58,421 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 20:51:52,222 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace32e4c745-10b5-492c-a2db-e336289ce532/database
+2024-12-24 20:51:52,222 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 20:51:52,222 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 20:51:52,222 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 20:51:55,296 - lightrag - INFO - kw_prompt result:
+2024-12-24 20:51:58,996 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 20:51:59,097 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacec398073c-f660-4b2d-8f91-b47a855812cc/database
+2024-12-24 20:51:59,098 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 20:51:59,098 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 20:51:59,098 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 20:52:07,677 - lightrag - INFO - kw_prompt result:
+2024-12-24 20:52:10,708 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 20:52:18,025 - lightrag - INFO - kw_prompt result:
+2024-12-24 20:52:20,979 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 20:52:54,229 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace58787833-cc1b-4c9f-8b52-1cec4d17ae5b/database
+2024-12-24 20:52:54,229 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 20:52:54,230 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 20:52:54,230 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 20:59:20,022 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacea83a9c68-70f9-489c-93b7-a5af657d8d98/database
+2024-12-24 20:59:20,022 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 20:59:20,022 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 20:59:20,022 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 20:59:21,984 - lightrag - INFO - kw_prompt result:
+2024-12-24 20:59:25,586 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:00:45,169 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace960994a7-7e77-4f7c-abe1-f11586c122aa/database
+2024-12-24 21:00:45,169 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:00:45,169 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:00:45,169 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:00:49,073 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:00:52,725 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:01:37,380 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace4cbcb74a-9ddc-4843-9956-6153cdfb0181/database
+2024-12-24 21:01:37,380 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:01:37,380 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:01:37,380 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:01:40,325 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:01:43,938 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:04:17,347 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace68e2e735-062c-4b44-ae4c-6fdf40da0e0e/database
+2024-12-24 21:04:17,347 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:04:17,347 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:04:17,347 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:04:20,286 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:04:24,078 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:04:34,315 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace763bb7d9-ccfb-4e7a-8da1-d7261cd74b0f/database
+2024-12-24 21:04:34,315 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:04:34,315 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:04:34,315 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:04:51,815 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacefb28f880-b500-40a7-8c51-646b4e5d184c/database
+2024-12-24 21:04:51,815 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:04:51,815 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:04:51,815 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:05:09,192 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacec413b5e5-d561-4026-903c-d19a2b945f8b/database
+2024-12-24 21:05:09,192 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:05:09,192 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:05:09,192 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:05:20,475 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:05:24,066 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:05:34,627 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace4eb6fbd0-ffd4-4ee2-9fcc-5b76d2ac6732/database
+2024-12-24 21:05:34,627 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:05:34,627 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:05:34,628 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:07:41,242 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace2bae9792-af79-4557-8b4c-bcfff20a9c0e/database
+2024-12-24 21:07:41,243 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:07:41,243 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:07:41,243 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:07:55,492 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace39536c3b-78a0-440a-88f2-2b7cd91f9620/database
+2024-12-24 21:07:55,493 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:07:55,493 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:07:55,493 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:13:07,427 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaced445115b-3b0b-4d39-a129-9a04bb2cac40/database
+2024-12-24 21:13:07,428 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:13:07,428 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:13:07,428 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:13:11,685 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace29d700e6-44d6-475f-8496-2a59b32af717/database
+2024-12-24 21:13:11,685 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:13:11,685 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:13:11,685 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:13:16,176 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:13:19,746 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:13:33,042 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:13:35,979 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:13:52,300 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:13:55,579 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:14:26,962 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace9e8e4573-6753-43c8-9c47-4402c984666e/database
+2024-12-24 21:14:26,963 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:14:26,963 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:14:26,963 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:14:51,025 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace81290da1-3e88-4e40-b02c-5e0c22fcb7b7/database
+2024-12-24 21:14:51,025 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:14:51,025 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:14:51,025 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:21:54,487 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace51e20360-8812-42f9-b220-facabec4186e/database
+2024-12-24 21:21:54,488 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:21:54,488 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:21:54,488 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:22:05,605 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaced12cd383-e10e-48f9-b454-64e412efc494/database
+2024-12-24 21:22:05,605 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:22:05,605 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:22:05,606 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:22:16,103 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:22:19,680 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:22:27,736 - lightrag - INFO - Logger initialized for working directory: ../assets/workspaced00cc236-2f5d-49d0-b104-176dc4d3dbe6/database
+2024-12-24 21:22:27,737 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:22:27,737 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:22:27,737 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:23:30,637 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacea6489ee1-4f00-4eb3-b80a-2d12a3eaefb5/database
+2024-12-24 21:23:30,637 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:23:30,637 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:23:30,637 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:24:23,277 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace3efd3176-16c7-4cc9-8cab-7cafcb116722/database
+2024-12-24 21:24:23,277 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:24:23,277 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:24:23,278 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:27:45,528 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace5b97dae4-4da4-4e81-9519-1aa33cd6e442/database
+2024-12-24 21:27:45,528 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:27:45,528 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:27:45,528 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:28:47,015 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace08f4680d-c522-46bf-bf50-a4ed970ad821/database
+2024-12-24 21:28:47,016 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:28:47,016 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:28:47,016 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:28:59,131 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace4a80a1dd-3650-4267-a39a-9f17ccc70ffa/database
+2024-12-24 21:28:59,131 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:28:59,131 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:28:59,131 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:29:02,344 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:29:05,909 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:29:14,778 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:29:17,690 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:33:29,702 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacec9a8901a-ba97-4713-a565-353571a3a1c9/database
+2024-12-24 21:33:29,702 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:33:29,702 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:33:29,702 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:33:59,274 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace389c29cd-0366-4ba5-ae4b-673bf8f43b8f/database
+2024-12-24 21:33:59,275 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:33:59,275 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:33:59,275 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:34:52,875 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace1f8ae4bf-c3e4-4241-bed9-09f78784ef4e/database
+2024-12-24 21:34:52,875 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:34:52,875 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:34:52,875 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:34:56,190 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace51e20360-8812-42f9-b220-facabec4186e/database
+2024-12-24 21:34:56,190 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:34:56,190 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:34:56,190 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:34:58,802 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:35:02,336 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:35:45,555 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace7493b7f4-6ae7-4ecc-b7b2-19e059bdcecc/database
+2024-12-24 21:35:45,556 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:35:45,556 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:35:45,556 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:36:03,513 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace0b362051-34d7-44f4-90a0-dd74f37db9a8/database
+2024-12-24 21:36:03,513 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:36:03,513 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:36:03,513 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:36:05,770 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace51e20360-8812-42f9-b220-facabec4186e/database
+2024-12-24 21:36:05,770 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 21:36:05,770 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:36:05,770 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:36:11,778 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:36:15,369 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:36:15,483 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace4a80a1dd-3650-4267-a39a-9f17ccc70ffa/database
+2024-12-24 21:36:15,484 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 21:36:15,484 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:36:15,484 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:36:24,607 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:36:27,587 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:37:16,835 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacee6f7a7a8-faf8-4347-ba82-511822cfae68/database
+2024-12-24 21:37:16,835 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:37:16,836 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:37:16,836 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:37:32,535 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace9c66c9fd-694a-4646-9579-712a67eed64f/database
+2024-12-24 21:37:32,536 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:37:32,536 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:37:32,536 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:38:17,340 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace43f96f14-c0a8-4eb3-b732-82fcd5e7fd73/database
+2024-12-24 21:38:17,340 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:38:17,340 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:38:17,340 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:38:43,434 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-24 21:38:43,666 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-12-24 21:38:43,666 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-12-24 21:38:45,745 - lightrag - INFO - [Entity Extraction]...
+2024-12-24 21:39:13,695 - lightrag - INFO - Inserting entities into storage...
+2024-12-24 21:39:13,697 - lightrag - INFO - Inserting relationships into storage...
+2024-12-24 21:39:13,697 - lightrag - INFO - Inserting 5 vectors to entities
+2024-12-24 21:39:15,189 - lightrag - INFO - Inserting 6 vectors to relationships
+2024-12-24 21:39:16,647 - lightrag - INFO - Writing graph with 5 nodes, 6 edges
+2024-12-24 21:39:18,348 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:39:19,803 - lightrag - INFO - Local query uses 5 entites, 6 relations, 1 text units
+2024-12-24 21:39:21,490 - lightrag - INFO - Global query uses 5 entites, 6 relations, 1 text units
+2024-12-24 21:42:40,654 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacec2a7b030-63e1-40d8-85be-2afd1696289c/database
+2024-12-24 21:42:40,654 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:42:40,654 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:42:40,654 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:42:42,398 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace43f96f14-c0a8-4eb3-b732-82fcd5e7fd73/database
+2024-12-24 21:42:42,399 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 21:42:42,399 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-24 21:42:42,399 - lightrag - INFO - Load KV text_chunks with 1 data
+2024-12-24 21:42:42,401 - lightrag - INFO - Loaded graph from ../assets/workspace43f96f14-c0a8-4eb3-b732-82fcd5e7fd73/database/graph_chunk_entity_relation.graphml with 5 nodes, 6 edges
+2024-12-24 21:43:00,309 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace43f96f14-c0a8-4eb3-b732-82fcd5e7fd73/database
+2024-12-24 21:43:00,309 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 21:43:00,314 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-24 21:43:00,314 - lightrag - INFO - Load KV text_chunks with 1 data
+2024-12-24 21:43:00,314 - lightrag - INFO - Loaded graph from ../assets/workspace43f96f14-c0a8-4eb3-b732-82fcd5e7fd73/database/graph_chunk_entity_relation.graphml with 5 nodes, 6 edges
+2024-12-24 21:43:06,910 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:43:09,268 - lightrag - INFO - Local query uses 5 entites, 6 relations, 1 text units
+2024-12-24 21:43:10,751 - lightrag - INFO - Global query uses 5 entites, 6 relations, 1 text units
+2024-12-24 21:49:45,346 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace859b6885-3250-4857-ba3b-f7a4ace5085e/database
+2024-12-24 21:49:45,346 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:49:45,346 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:49:45,347 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:49:53,010 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:49:56,627 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:51:35,234 - lightrag - INFO - [New Docs] inserting 4 docs
+2024-12-24 21:51:35,494 - lightrag - INFO - [New Chunks] inserting 19 chunks
+2024-12-24 21:51:35,494 - lightrag - INFO - Inserting 19 vectors to chunks
+2024-12-24 21:51:37,040 - lightrag - INFO - [Entity Extraction]...
+2024-12-24 21:52:56,485 - lightrag - INFO - Inserting entities into storage...
+2024-12-24 21:53:01,187 - lightrag - INFO - Inserting relationships into storage...
+2024-12-24 21:53:01,196 - lightrag - INFO - Inserting 190 vectors to entities
+2024-12-24 21:53:10,082 - lightrag - INFO - Inserting 95 vectors to relationships
+2024-12-24 21:53:14,520 - lightrag - INFO - Writing graph with 190 nodes, 95 edges
+2024-12-24 21:53:17,889 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:53:19,345 - lightrag - INFO - Local query uses 60 entites, 45 relations, 3 text units
+2024-12-24 21:53:20,778 - lightrag - INFO - Global query uses 62 entites, 60 relations, 3 text units
+2024-12-24 21:53:57,526 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace9f6d77cf-1a95-4be1-ad03-efd7d9506607/database
+2024-12-24 21:53:57,526 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:53:57,526 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:53:57,526 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:53:59,884 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacef209b180-0cdd-4214-b73f-fc694427a484/database
+2024-12-24 21:53:59,884 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:53:59,884 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:53:59,884 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:54:02,600 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace859b6885-3250-4857-ba3b-f7a4ace5085e/database
+2024-12-24 21:54:02,600 - lightrag - INFO - Load KV llm_response_cache with 2 data
+2024-12-24 21:54:02,601 - lightrag - INFO - Load KV full_docs with 4 data
+2024-12-24 21:54:02,602 - lightrag - INFO - Load KV text_chunks with 19 data
+2024-12-24 21:54:02,609 - lightrag - INFO - Loaded graph from ../assets/workspace859b6885-3250-4857-ba3b-f7a4ace5085e/database/graph_chunk_entity_relation.graphml with 190 nodes, 95 edges
+2024-12-24 21:54:28,118 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:54:29,580 - lightrag - INFO - Local query uses 60 entites, 38 relations, 3 text units
+2024-12-24 21:54:31,026 - lightrag - INFO - Global query uses 58 entites, 60 relations, 3 text units
+2024-12-24 21:54:55,809 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacef41b7b97-9299-4ed5-bc54-1c041f2777a9/database
+2024-12-24 21:54:55,809 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:54:55,809 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:54:55,810 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:55:10,338 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:55:13,874 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:55:20,242 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:55:23,410 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:55:42,587 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:55:45,557 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:55:51,127 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:55:52,602 - lightrag - INFO - Local query uses 60 entites, 42 relations, 3 text units
+2024-12-24 21:55:54,326 - lightrag - INFO - Global query uses 57 entites, 60 relations, 3 text units
+2024-12-24 21:56:07,166 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:56:10,127 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:56:21,984 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:56:23,484 - lightrag - INFO - Local query uses 60 entites, 39 relations, 3 text units
+2024-12-24 21:56:24,931 - lightrag - INFO - Global query uses 55 entites, 60 relations, 3 text units
+2024-12-24 21:56:34,452 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:56:35,904 - lightrag - INFO - Local query uses 60 entites, 37 relations, 3 text units
+2024-12-24 21:56:37,351 - lightrag - INFO - Global query uses 61 entites, 60 relations, 3 text units
+2024-12-24 21:57:30,590 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace383f0cc4-92c2-4740-8c94-0d260023a1e9/database
+2024-12-24 21:57:30,590 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:57:30,591 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:57:30,591 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:57:38,019 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace859b6885-3250-4857-ba3b-f7a4ace5085e/database
+2024-12-24 21:57:38,020 - lightrag - INFO - Load KV llm_response_cache with 2 data
+2024-12-24 21:57:38,021 - lightrag - INFO - Load KV full_docs with 4 data
+2024-12-24 21:57:38,022 - lightrag - INFO - Load KV text_chunks with 19 data
+2024-12-24 21:57:38,028 - lightrag - INFO - Loaded graph from ../assets/workspace859b6885-3250-4857-ba3b-f7a4ace5085e/database/graph_chunk_entity_relation.graphml with 190 nodes, 95 edges
+2024-12-24 21:57:43,547 - lightrag - INFO - Truncate 19 to 3 chunks
+2024-12-24 21:57:51,580 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace45f67da1-eec4-4937-b16d-fd33719396e9/database
+2024-12-24 21:57:51,580 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 21:57:51,580 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:57:51,580 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:57:58,736 - lightrag - INFO - Truncate 19 to 3 chunks
+2024-12-24 21:58:06,117 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacef41b7b97-9299-4ed5-bc54-1c041f2777a9/database
+2024-12-24 21:58:06,117 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 21:58:06,117 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 21:58:06,117 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 21:58:13,873 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:58:16,801 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 21:58:52,115 - lightrag - INFO - kw_prompt result:
+2024-12-24 21:58:55,028 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:00:35,724 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace2b4dca77-187b-460c-b932-8140de121234/database
+2024-12-24 22:00:35,725 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:00:35,725 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:00:35,725 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:00:54,698 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace179d5566-957b-4498-ab92-ccd70f881a9c/database
+2024-12-24 22:00:54,698 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:00:54,699 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:00:54,699 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:16:08,860 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace397031b2-0697-444b-a59e-5b1cd1a533c5/database
+2024-12-24 22:16:08,860 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:16:08,861 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:16:08,861 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:16:10,437 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:16:14,018 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:16:16,361 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace6db89eec-13a3-4a4e-9538-316dc9f250f3/database
+2024-12-24 22:16:16,362 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:16:16,362 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:16:16,362 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:16:18,383 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:16:21,296 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:21:24,599 - lightrag - INFO - Logger initialized for working directory: ../assets/workspacee0167e05-ad36-4c99-aabc-f8ee87fcb292/database
+2024-12-24 22:21:24,599 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:21:24,599 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:21:24,600 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:21:25,956 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:21:29,720 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:21:32,815 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace300ae410-0a89-4f25-982d-f3f4f072b96d/database
+2024-12-24 22:21:32,815 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:21:32,815 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:21:32,815 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:21:34,664 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:21:37,685 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:22:11,569 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace35280d70-9d4f-4bfb-a61a-659327142480/database
+2024-12-24 22:22:11,569 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:22:11,569 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:22:11,569 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:22:12,661 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:22:16,195 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:24:17,124 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace2f6967c0-9025-4715-8e93-d8a30f8f1322/database
+2024-12-24 22:24:17,124 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:24:17,125 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:24:17,125 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:24:44,846 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace35280d70-9d4f-4bfb-a61a-659327142480/database
+2024-12-24 22:24:44,847 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-24 22:24:44,847 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:24:44,847 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:25:18,655 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace38a73826-5c38-483e-88db-9fb39ffb6855/database
+2024-12-24 22:25:18,655 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:25:18,655 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:25:18,655 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:25:36,600 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace33cea876-afa0-40f2-83cd-f10113782ff5/database
+2024-12-24 22:25:36,600 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:25:36,600 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:25:36,600 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:25:50,181 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace821e5247-a3f2-4146-9683-93f41b28e29f/database
+2024-12-24 22:25:50,181 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:25:50,181 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:25:50,181 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:26:42,765 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace66fb8d4a-36fc-47a7-bad3-7f96365052ab/database
+2024-12-24 22:26:42,765 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:26:42,765 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:26:42,765 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:26:43,967 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace821e5247-a3f2-4146-9683-93f41b28e29f/database
+2024-12-24 22:26:43,967 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:26:43,967 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:26:43,967 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:26:48,021 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:26:51,583 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:26:59,750 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:27:03,156 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:28:04,430 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace9c2972e4-3c1b-46e2-9285-2a8140b55d16/database
+2024-12-24 22:28:04,430 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:28:04,430 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:28:04,430 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:28:15,861 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:28:18,786 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:28:50,748 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:28:53,723 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:29:28,737 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:29:31,669 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:33:51,791 - lightrag - INFO - Logger initialized for working directory: ../assets/workspace6a7fbea2-8dbd-4e0f-99ee-af5acab22162/database
+2024-12-24 22:33:51,791 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-12-24 22:33:51,791 - lightrag - INFO - Load KV full_docs with 0 data
+2024-12-24 22:33:51,791 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-12-24 22:33:56,170 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:33:59,760 - lightrag - WARNING - No high level context found. Switching to local mode.
+2024-12-24 22:34:19,972 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-12-24 22:34:20,215 - lightrag - INFO - [New Chunks] inserting 8 chunks
+2024-12-24 22:34:20,215 - lightrag - INFO - Inserting 8 vectors to chunks
+2024-12-24 22:34:21,719 - lightrag - INFO - [Entity Extraction]...
+2024-12-24 22:35:48,224 - lightrag - INFO - Inserting entities into storage...
+2024-12-24 22:35:48,235 - lightrag - INFO - Inserting relationships into storage...
+2024-12-24 22:35:48,237 - lightrag - INFO - Inserting 149 vectors to entities
+2024-12-24 22:35:55,607 - lightrag - INFO - Inserting 66 vectors to relationships
+2024-12-24 22:36:00,010 - lightrag - INFO - Writing graph with 150 nodes, 66 edges
+2024-12-24 22:36:01,709 - lightrag - INFO - kw_prompt result:
+2024-12-24 22:36:03,163 - lightrag - INFO - Local query uses 60 entites, 41 relations, 3 text units
+2024-12-24 22:36:04,622 - lightrag - INFO - Global query uses 64 entites, 60 relations, 3 text units

@@ -1,0 +1,10 @@
+2024-12-22 11:41:33,850 - lightrag - INFO - Logger initialized for working directory: /mnt/dunghd/LightRAG/assets/test2hf/database
+2024-12-22 11:41:33,851 - lightrag - INFO - Load KV llm_response_cache with 1 data
+2024-12-22 11:41:33,851 - lightrag - INFO - Load KV full_docs with 1 data
+2024-12-22 11:41:33,851 - lightrag - INFO - Load KV text_chunks with 3 data
+2024-12-22 11:41:33,853 - lightrag - INFO - Loaded graph from /mnt/dunghd/LightRAG/assets/test2hf/database/graph_chunk_entity_relation.graphml with 54 nodes, 14 edges
+2024-12-22 11:43:01,973 - lightrag - INFO - [New Docs] inserting 4 docs
+2024-12-22 11:43:02,276 - lightrag - INFO - [New Chunks] inserting 79 chunks
+2024-12-22 11:43:02,276 - lightrag - INFO - Inserting 79 vectors to chunks
+2024-12-22 11:43:11,357 - lightrag - INFO - [Entity Extraction]...
+2024-12-22 11:44:36,986 - lightrag - INFO - Writing graph with 54 nodes, 14 edges
