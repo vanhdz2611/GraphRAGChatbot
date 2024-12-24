@@ -8,9 +8,9 @@ cd LightRAG
 pip -r requirements.txt
 ```
 ## Quick Start
-'''
+```
 cd chainlit
 Chage API key in app.py
 
 run: chainlit run app.py
-'''
+```
